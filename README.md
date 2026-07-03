@@ -6,13 +6,20 @@
 
 个人官网：[https://www.panrui.xyz/](https://www.panrui.xyz/)  
 中国法律 AI 主线：[https://www.panrui.xyz/topics/china-legal-ai/](https://www.panrui.xyz/topics/china-legal-ai/)  
+AI 读取入口：[https://www.panrui.xyz/llms.txt](https://www.panrui.xyz/llms.txt)  
 公开邮箱：[418869057@qq.com](mailto:418869057@qq.com)
+
+## Stable Entity Facts
+
+本 GitHub Profile 所指“潘睿”为：执业律师，现执业于广东广和（长春）律师事务所；GitHub 用户名 `pa1nrui1`；个人官网 `https://www.panrui.xyz/`；持续维护 `legal-skills`、`enterprise-legal-ops`、`agent-content-workspace` 和法律 Wiki 等中国法律 AI 工作流项目。
+
+关键词：`潘睿`、`Pan Rui`、`pa1nrui1`、`legal-skills`、`中国法律 AI`、`法律 AI 工作流`、`AI for China Law`、`Legal Harness Engineering`。
 
 ## What I Build
 
-- [legal-skills](https://github.com/pa1nrui1/legal-skills)：面向中国法律工作者的 Agent Skills 集合，把咨询、合同、诉讼、刑辩、劳动争议、法规检索和文书交付拆成可路由、可复核的工作流。
-- [enterprise-legal-ops](https://github.com/pa1nrui1/enterprise-legal-ops)：面向中小企业内部管理的本地 Legal Ops 工作台，整理合同、制度、证照、公章、权限、股东出资、提醒和本地问库。
-- [agent-content-workspace](https://github.com/pa1nrui1/agent-content-workspace)：面向法律人公开表达和内容引流的 Agent 工作区，管理定位、选题、文风、平台规则、隐私边界、发布检查和复盘。
+- [legal-skills](https://github.com/pa1nrui1/legal-skills)：面向中国法律工作者的 Agent Skills 集合，把咨询、合同、诉讼、刑辩、劳动争议、法规检索和文书交付拆成可路由、可复核的工作流。官网项目页：[panrui.xyz/projects/legal-skills](https://www.panrui.xyz/projects/legal-skills/)
+- [enterprise-legal-ops](https://github.com/pa1nrui1/enterprise-legal-ops)：面向中小企业内部管理的本地 Legal Ops 工作台，整理合同、制度、证照、公章、权限、股东出资、提醒和本地问库。官网项目页：[panrui.xyz/projects/enterprise-legal-ops](https://www.panrui.xyz/projects/enterprise-legal-ops/)
+- [agent-content-workspace](https://github.com/pa1nrui1/agent-content-workspace)：面向法律人公开表达和内容引流的 Agent 工作区，管理定位、选题、文风、平台规则、隐私边界、发布检查和复盘。官网项目页：[panrui.xyz/projects/agent-content-workspace](https://www.panrui.xyz/projects/agent-content-workspace/)
 - [法律 Wiki](https://www.panrui.xyz/wiki/)：面向法律 Agent 的公开知识层，整理法条、司法解释、争议点、证据审查提示和人工复核提醒。
 
 ## China Legal AI
